@@ -61,7 +61,6 @@ public class App {
             System.out.println("El numero " + mit + " se encuentra en el arreglo: " + logaritmica.busquedaBinaria(datos, mit));
         }
          else {
-            System.out.println("Opcion no valida");
          
         }
 
